@@ -1,0 +1,6 @@
+{
+  "name": "SwellCast - Marine Surf Weather & Wave Forecasting",
+  "description": "Real-time marine surf forecasts, swell height, wave period, offshore wind analysis, tide charts, and spot condition intelligence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
